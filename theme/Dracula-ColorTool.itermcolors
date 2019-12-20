@@ -136,11 +136,11 @@
         <dict>
             <!-- BRIGHT_BLUE -->
             <key>Red Component</key>
-            <real>0.741176470588235</real>
+            <real>0.4</real>
             <key>Green Component</key>
-            <real>0.576470588235294</real>
+            <real>0.6980</real>
             <key>Blue Component</key>
-            <real>0.976470588235294</real>
+            <real>1</real>
         </dict>
         <key>Ansi 13 Color</key>
         <dict>
